@@ -1,0 +1,6 @@
+help.txt
+.env
+*.idea
+media
+static
+.DS_Store
